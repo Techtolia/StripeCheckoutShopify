@@ -60,7 +60,7 @@ With EasyPie Checkout, customers can pay with a variety of payment methods witho
 
 To truly succeed in the US and Australian markets, it’s essential to offer **localized payment methods** that cater to the preferences of customers in those regions. For example:
 
-- **In the US**, consumers expect to be able to pay with **credit and debit cards**, digital wallets like **Apple Pay** and **Google Pay**, and services like **Afterpay** for “Buy Now, Pay Later” options.
+- **In the US**, consumers expect to be able to pay with **credit and debit cards**, digital wallets like **Apple Pay** and **Google Pay**, and services like **Afterpay** and **Klarna** for “Buy Now, Pay Later” options.
   
 - **In Australia**, **credit and debit cards**, **Apple Pay**, **Google Pay**, and **Afterpay** are all commonly used, with **Afterpay** becoming especially popular among Australian consumers.
 
