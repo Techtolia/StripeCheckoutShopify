@@ -1,5 +1,5 @@
 # Stripe Checkout &amp; Subscriptions for Shopify via EasyPie
-[![EasyPie Shopify](https://github.com/user-attachments/assets/68f0defd-54bf-45ff-94aa-6f37e7e09584)](https://easypie.shop/shopify)
+[![EasyPie Shopify](https://github.com/user-attachments/assets/b3af59c3-660b-41b7-94a3-5be7413e813a)](https://easypie.shop/shopify)
 ## visit >> https://easypie.shop/shopify
 ### visit Shopify demo store >> [https://stripefor.top](https://easypie.dev/)
 #### visit video preview list >> https://www.youtube.com/playlist?list=PLYcyegf4ttmGdfkCKK0QdRnMu9yUycbJb
