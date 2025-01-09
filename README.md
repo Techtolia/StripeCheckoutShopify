@@ -14,7 +14,7 @@ Accept payments from customers worldwide with a variety of payment methods throu
 
 Visa · Mastercard · American Express · Discover & Diners Club · China UnionPay · JCB · Cartes Bancaires · eftpos
 
-ACH Direct Debit · Affirm · Afterpay / Clearpay · Alipay · Alma · Amazon Pay · Apple Pay · Bacs Direct Debit · Bancontact · Bank transfers · BECS Direct Debit · BLIK · Boleto · Cards · Cash App Pay · EPS · FPX · giropay · Google Pay · GrabPay · iDEAL · Klarna · Konbini · Faster checkout with Link · MobilePay · Multibanco · OXXO · PayNow · PayPal · PromptPay · Przelewy24 · Revolut Pay · SEPA Direct Debit · Sofort · Swish · TWINT · WeChat Pay · Zip · South Korean Cards · Kakao Pay · Naver Pay · Samsung Pay · PayCo
+ACH Direct Debit · Affirm · Afterpay / Clearpay · Alipay · Amazon Pay · Apple Pay · Bacs Direct Debit · Bancontact · Bank transfers · BECS Direct Debit · BLIK · Boleto · Cards · Cash App Pay · Pay with Crypto · EPS · FPX · giropay · Google Pay · GrabPay · iDEAL · Klarna · Konbini · Faster checkout with Link · MobilePay · Multibanco · OXXO · PayNow · PayPal · PromptPay · Przelewy24 · Revolut Pay · SEPA Direct Debit · Sofort · Swish · TWINT · WeChat Pay · Zip · South Korean Cards · Kakao Pay · Naver Pay · Samsung Pay · PayCo
 
 EasyPie supports multiple currencies. Set the currencies and rates you want via EasyPie settings and allow your customers to pay in different currencies on the checkout screen. EasyPie converts the prices according to the rate you specify, and after collecting the fee, creates the order in your Shopify store with the values converted to the customer's chosen currency.
 
