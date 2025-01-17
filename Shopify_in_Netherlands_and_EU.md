@@ -80,4 +80,4 @@ For Shopify merchants in the Netherlands, across the EU, and beyond, offering a 
 
 EasyPie Checkout makes it easier than ever to offer a tailored and secure payment experience for your international and local customers. Whether you’re selling in the Netherlands, across Europe, or globally, EasyPie Checkout is your gateway to a simplified, more profitable Shopify store.
 
-For more information, visit [EasyPie Checkout for Shopify](https://www.easypie.com) and start enhancing your checkout experience today!
+For more information, visit [EasyPie Checkout for Shopify](https://easypie.shop/shopify) and start enhancing your checkout experience today!
