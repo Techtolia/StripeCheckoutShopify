@@ -1,5 +1,7 @@
 # Shopify in Netherlands and EU: Accept iDEAL and Various Payment Methods, Subscriptions and Currencies with Stripe
 
+![IntroNew4](https://github.com/user-attachments/assets/5c16a7e3-d81a-405b-a588-b50aea6a438d)
+
 As eCommerce continues to expand globally, it is essential for merchants to offer a wide variety of payment options to meet the diverse preferences of their customers. Shopify store owners, particularly those in the Netherlands, across the European Union (EU), and beyond, need a seamless solution to accept different payment methods and currencies. This not only enhances the customer experience but also drives conversions and helps businesses expand their market reach. By integrating Stripe with EasyPie Checkout on Shopify, merchants can accept a broad spectrum of payment options, including iDEAL and SEPA Direct Debit, and even set up subscriptions effortlessly.
 
 ## Accept Popular Payment Methods with a Single Integration
