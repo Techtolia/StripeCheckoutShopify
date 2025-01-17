@@ -2,7 +2,7 @@
 [![EasyPie Shopify](https://github.com/user-attachments/assets/999a6011-0621-4467-8cbb-8ebfcbfe8b7d)](https://easypie.shop/shopify)
 
 ## visit >> https://easypie.shop/shopify
-### visit Shopify demo store >> [https://stripefor.top](https://easypie.dev/)
+### visit Shopify demo store >> [https://easypie.dev](https://easypie.dev/)
 #### visit video preview list >> https://www.youtube.com/playlist?list=PLYcyegf4ttmGdfkCKK0QdRnMu9yUycbJb
 
 One-Time &amp; Recurring Payments | Multi Currencies &amp; Languages | 40+ Payment Methods
