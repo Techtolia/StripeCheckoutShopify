@@ -2,8 +2,6 @@
 
 ![IntroNew4](https://github.com/user-attachments/assets/5c16a7e3-d81a-405b-a588-b50aea6a438d)
 
-# Expand Your Shopify Store's Reach with EasyPie Checkout and Stripe
-
 In today’s digital landscape, e-commerce businesses are constantly looking for ways to expand their reach, enhance customer experience, and improve conversion rates. One of the most effective ways to do this is by offering a diverse range of payment options that accommodate customers from all over the world. Shopify store owners, especially those in Poland, Europe, and beyond, can significantly benefit from providing localized payment methods, multi-currency support, and fast, secure checkout experiences. That’s where Stripe and the EasyPie Checkout for Shopify come into play.
 
 ## Why Payment Methods Matter for Your Shopify Store
