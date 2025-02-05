@@ -1,6 +1,6 @@
 # How to Accept Crypto Payments with Stripe on Shopify: A Step-by-Step Guide
 
-![IntroNew4](https://github.com/user-attachments/assets/5c16a7e3-d81a-405b-a588-b50aea6a438d)
+![EasyPie Shopify](https://github.com/user-attachments/assets/5c16a7e3-d81a-405b-a588-b50aea6a438d)
 
 In recent years, cryptocurrency has emerged as an exciting and revolutionary way to make payments. As an online business owner, especially if you're using Shopify, you might be interested in expanding your payment options by accepting cryptocurrency. Fortunately, Stripe, one of the most popular payment processors globally, has integrated crypto payment capabilities that make accepting stablecoin payments seamless and straightforward. With Pay with Crypto, you can now accept USDC and USDP payments, all while receiving the funds as fiat in your Stripe balance.
 
