@@ -2,8 +2,6 @@
 
 ![EasyPie Shopify](https://github.com/user-attachments/assets/5c16a7e3-d81a-405b-a588-b50aea6a438d)
 
-# South Korea’s Advanced Payment Ecosystem and Shopify Integration
-
 South Korea’s advanced payment ecosystem, characterized by widespread credit card usage and leading mobile wallets like Kakao Pay, Naver Pay, and Samsung Pay, makes it an attractive market for Shopify merchants. Stripe, with its robust infrastructure, enables seamless integration of these payment methods, ensuring merchants cater to local preferences while maintaining global scalability.
 
 ## The South Korean Payment Landscape
