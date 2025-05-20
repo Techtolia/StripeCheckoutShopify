@@ -1,5 +1,5 @@
 # Stripe Checkout &amp; Subscriptions for Shopify via EasyPie
-[![EasyPie Shopify](https://github.com/user-attachments/assets/999a6011-0621-4467-8cbb-8ebfcbfe8b7d)](https://easypie.shop/shopify)
+[![EasyPie Shopify](https://github.com/user-attachments/assets/860e8a63-78ee-4621-878d-286d2b7b8e79)](https://easypie.shop/shopify)
 
 ## visit >> https://easypie.shop/shopify
 ### visit Shopify demo store >> [https://easypie.dev](https://easypie.dev/)
@@ -15,7 +15,7 @@ Accept payments from customers worldwide with a variety of payment methods throu
 
 Visa · Mastercard · American Express · Discover & Diners Club · China UnionPay · JCB · Cartes Bancaires · eftpos
 
-ACH Direct Debit · Affirm · Afterpay/Clearpay · Alipay · Alma · Amazon Pay · Apple Pay · Bacs Direct Debit · Bancontact · Bank transfers · BECS Direct Debit · BLIK · Boleto · Cards · Cash App Pay · Pay with Crypto · EPS · FPX · Google Pay · GrabPay · iDEAL · Klarna · Konbini · Faster checkout with Link · MobilePay · Multibanco · OXXO · PayNow · PayPal · PromptPay · Przelewy24 · Revolut Pay · SEPA Direct Debit · Sofort · Swish · TWINT · WeChat Pay · Zip · South Korean Cards · Kakao Pay · Naver Pay · PayCo · Samsung Pay
+ACH Direct Debit · Affirm · Afterpay/Clearpay · Alipay · Alma · Amazon Pay · Apple Pay · Bacs Direct Debit · Bancontact · Bank transfers · Australia BECS Direct Debit · New Zealand BECS Direct Debit · Billie · BLIK · Boleto · Cards · Cash App Pay · Pay with Crypto · EPS · FPX · Google Pay · GrabPay · iDEAL · Klarna · Konbini · Faster checkout with Link · MobilePay · Multibanco · OXXO · Pay by Bank · PayNow · PayPal · Pix · PromptPay · Przelewy24 · Revolut Pay · Satispay · SEPA Direct Debit · Swish · TWINT · WeChat Pay · Zip · South Korean Cards · Kakao Pay · Naver Pay · PayCo · Samsung Pay
 
 EasyPie supports multiple currencies. Set the currencies and rates you want via EasyPie settings and allow your customers to pay in different currencies on the checkout screen. EasyPie converts the prices according to the rate you specify, and after collecting the fee, creates the order in your Shopify store with the values converted to the customer's chosen currency.
 
